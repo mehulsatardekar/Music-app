@@ -1,0 +1,22 @@
+body{
+
+    margin: 0px !important;
+    padding: 0px !important;
+}
+
+
+.txtbox{
+
+    width: 350px;
+    height: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+
+.btn{
+    margin-top: 12px;
+    width: 180px;
+    height: 30px;
+    border-radius: 4px;
+}
+
